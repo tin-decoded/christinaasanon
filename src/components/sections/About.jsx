@@ -20,12 +20,12 @@ const About = () => {
         {/* Left Column - Text */}
         <div className="col-span-9">
           <BlurText
-            text="Your Tag Line...."
+            text="I am a core contributor and I specialized in Cloud-Native Systems & AI Integration...."
             delay={150}
             animateBy="words"
             direction="top"
             onAnimationComplete={handleAnimationComplete}
-            className="text-4xl md:text-5xl lg:text-5xl font-bold mb-4"
+            className="text-4xl md:text-5xl lg:text-4xl font-bold mb-4"
           />
         </div>
       </div>
@@ -33,7 +33,7 @@ const About = () => {
       {/* Background Section */}
       <div className="pb-5 pt-5">
         <p className="text-zinc-400 pb-5 text-xs lg:text-base">
-          Your professional description here...
+          Software Engineer with  experience in designing, developing, and supporting enterprise-grade, web-based, and cloud-native applications. Strong background in Java, Microservices, and AWS-based architectures, with domain expertise in payment platforms, telecom systems, and government applications. Proven ability to contribute across the full software development lifecycle, from requirements analysis and system design to deployment, production support, and stakeholder engagement. I’m currently expanding my expertise into AI space....
         </p>
         <p className="text-zinc-500 flex items-center gap-1 mb-5 text-xs lg:text-sm xl:text-base 2xl:text-lg">
           <IoMdPin /> <span>Singapore</span>

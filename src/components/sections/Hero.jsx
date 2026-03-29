@@ -4,7 +4,7 @@ import CompBanner from '/src/assets/Hero/comp-banner.jpg';
 
 const lines = [
   "what-i-do: I design, develop enterprise-grade, cloud-native applications\n",
-  "mindset: quality-over-quantity, detail-oriented, result-driven oriented",
+  "mindset: commited, execution-oriented, result-driven oriented",
   <>
     want to learn more{" "}
     <a href="/about" className="text-zinc-400 underline">
@@ -43,7 +43,7 @@ const Hero = () => {
               <h1 className="text-xl md:text-5xl font-extrabold text-zinc-300 flex flex-wrap items-center gap-3 py-5">
                 <span>Coding With</span>
                 <RotatingText
-                  texts={["Quality", "Proficiency", "Accuracy"]}
+                  texts={["Proficiency", "Scalability", "Fault-tolerant"]}
                   mainClassName="inline-block px-3 py-1 bg-gradient-to-r from-yellow-400 to-amber-500 text-black rounded-md text-base md:text-5xl"
                   staggerFrom="last"
                   initial={{ y: "100%" }}

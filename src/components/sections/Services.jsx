@@ -10,19 +10,19 @@ const services = [
     icon: <MdOutlineEngineering size={40} className="mb-6 text-zinc-300" />,
     title: "Software Engineering",
     description:
-      "I mostly design and implement software systems for consumer-based and enterprise application. I am also open in Data Analytics field",
+      "I specialize in the design and implementation of distributed systems and enterprise-scale applications. I have already started transitioning into the AI domain.",
     spotlightColor: "rgba(245, 158, 11, 0.25)",
   },
   {
     icon: <DiJava size={50} className="mb-4 text-zinc-300" />,
     title: "Java",
     description:
-      "I continuously learn Java to build competitive skills and build applications using OOP principles and applying real-world applications.",
+      "I design and develop cloud-native applications, utilizing my deep expertise in Java and microservices architecture to solve complex business challenges.",
     spotlightColor: "rgba(237, 29, 37, 0.25)",
   },
   {
     icon: <SiSpring size={50} className="mb-4 text-zinc-300" />,
-    title: "Spring Framework",
+    title: "Spring boot Framework",
     description:
       "I mostly use Spring Boot in Java development, leveraging its ecosystem to build scalable and maintainable enterprise solutions.",
     spotlightColor: "rgba(109, 179, 63, 0.25)",

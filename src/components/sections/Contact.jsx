@@ -79,12 +79,12 @@ const Contact = () => {
                 </span>
               </div>
               <BlurText
-                text="Let's create your next big idea."
+                text="Let’s build scalable solutions together.."
                 delay={150}
                 animateBy="words"
                 direction="top"
                 onAnimationComplete={handleAnimationComplete}
-                className="text-xl md:text-5xl lg:text-5xl font-bold mb-4 lg:text-center"
+                className="text-xl md:text-5xl lg:text-4xl font-bold mb-4 lg:text-center"
               ></BlurText>
             </div>
           </div>

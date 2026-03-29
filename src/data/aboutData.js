@@ -27,7 +27,6 @@ const aboutData = {
       {
         degree: "Bachelor of Science in Computer Science",
         institution: "Central Colleges of the Philippines\n",
-        period: "1997-2001",
       },
     ],
   },
@@ -62,13 +61,13 @@ export const techIcons = {
     name: "React",
     url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
   },
-  Laravel: {
-    name: "Laravel",
-    url: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg",
+  AWS: {
+    name: "AWS",
+    url: "https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png",
   },
-  Bootstrap: {
-    name: "Bootstrap",
-    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+  SonarQube: {
+    name: "SonarQube",
+    url: "https://cdn.jsdelivr.net/gh/jenkinsci/sonarqube-plugin@master/images/SonarQube_light.png",
   },
   MySQL: {
     name: "MySQL",
@@ -79,8 +78,8 @@ export const techIcons = {
     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png",
   },
   Figma: {
-    name: "Figma",
-    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+    name: "OpenAI",
+    url: "https://us1.discourse-cdn.com/openai1/original/4X/3/2/1/321a1ba297482d3d4060d114860de1aa5610f8a9.png",
   },
   Git: {
     name: "Git",
@@ -111,17 +110,41 @@ export const techIcons = {
     url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
   },
   MongoDB: {
-    name: "MongoDB",
-    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    name: "Linux",
+    url: "https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg",
   },
   Postman: {
     name: "Postman",
     url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg",
   },
   GoogleCloud: {
-    name: "Google Cloud",
-    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg",
+    name: "Amazon RDS",
+    url: "https://miro.medium.com/0*yj2v94fMm_MnkQT8.png",
   },
+  Oracle: {
+      name: "Oracle DB",
+      url: "https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png",
+    },
+   Jboss: {
+       name: "Jboss",
+       url: "https://avatars.githubusercontent.com/u/1106024?s=280&v=4",
+     },
+  JavaReactive: {
+    name: "Java Reactive",
+    url: "https://miro.medium.com/0*3KmBaCzJbUlhtUqI.png",
+  },
+  Wiremock: {
+      name: "Wiremock",
+      url: "https://miro.medium.com/0*w8ihAcXuAU3v4_hs.jpg",
+  },
+    Mockito: {
+        name: "Mockito",
+        url: "https://www.logicbig.com/tutorials/unit-testing/mockito/images/mockito.png",
+    },
+    JUnit: {
+        name: "JUnit",
+        url: "https://avatars.githubusercontent.com/u/874086?s=200&v=4",
+    },
 };
   
 
